@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イラストレーター",
+  "base_artist": "宮之悟",
+  "createdAt": "2026-02-18T10:53:30.487503Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イラストレーター",
+      "artist": "宮之悟",
+      "has_synced": false,
+      "path": "select/pl_01_イラストレーター_宮之悟.txt"
+    }
+  ]
+}
